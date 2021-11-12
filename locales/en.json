@@ -1,0 +1,434 @@
+{
+  "data": {
+    "accompanying-material-search": {
+      "__field__": "Accompanying material"
+    },
+    "binding-search": {
+      "__field__": "Binding"
+    },
+    "binding-orig-place-search": {
+      "__field__": "Binding: place of origin"
+    },
+    "booklet-search": {
+      "__field__": "Fascicle"
+    },
+    "collection-search": {
+      "__field__": "Collection"
+    },
+    "decoration-search": {
+      "__field__": "Decoration"
+    },
+    "desc-author-search": {
+      "__field__": "Author"
+    },
+    "desc-publish-date-facet": {
+      "__field__": "Year of publication"
+    },
+    "described-object-facet": {
+      "__field__": "Has manuscript descriptions",
+      "true": "With manuscript descriptions"
+    },
+    "digitized-object-facet": {
+      "__field__": "Has digital images",
+      "true": "With digital images"
+    },
+    "digitized-iiif-object-facet": {
+      "__field__": "Has IIIF resources",
+      "true": "IIIF"
+    },
+    "dimensions-display": {
+      "__field__": "Dimensions"
+    },
+    "explicit-search": {
+      "__field__": "Explicit"
+    },
+    "FIELD-GROUP-BASIC": {
+      "__field__": "Basic data"
+    },
+    "FIELD-GROUP-FULLTEXT": {
+      "__field__": "Fulltext"
+    },
+    "FIELD-GROUP-ORIGIN": {
+      "__field__": "Place of origin"
+    },
+    "FIELD-GROUP-PERSON": {
+      "__field__": "Name"
+    },
+    "FIELD-GROUP-SIGNATURE": {
+      "__field__": "Shelfmark"
+    },
+    "format-display": {
+      "__field__": "Format"
+    },
+    "format-search": {
+      "__field__": "Format"
+    },
+    "fulltext-search": {
+      "__field__": "Fulltext"
+    },
+    "has-notation-display": {
+      "__field__": "Has musical notation"
+    },
+    "has-notation-search": {
+      "__field__": "Has musical notation"
+    },
+    "height-facet": {
+      "__field__": "Height"
+    },
+    "history-search": {
+      "__field__": "History"
+    },
+    "id-search": {
+      "__field__": "HSP ID"
+    },
+    "id": {
+      "__field__": "HSP ID"
+    },
+    "idno-alternative-search": {
+      "__field__": "Alternative shelfmark"
+    },
+    "idno-display": {
+      "__field__": "Shelfmark"
+    },
+    "idno-search": {
+      "__field__": "Shelfmark"
+    },
+    "illuminated-display": {
+      "__field__": "Has decoration"
+    },
+    "illuminated-search": {
+      "__field__": "Has decoration"
+    },
+    "incipit-search": {
+      "__field__": "Incipit"
+    },
+    "item-iconography-search": {
+      "__field__": "Content (iconography)"
+    },
+    "item-music-search": {
+      "__field__": "Content (music)"
+    },
+    "item-text-search": {
+      "__field__": "Content (text)"
+    },
+    "language-display": {
+      "__field__": "Language",
+      "ar": "Arabic",
+      "ara": "Arabic",
+      "bg": "Bulgarian",
+      "ca": "Catalan",
+      "chu": "Church slavic",
+      "cs": "Czech",
+      "cu": "Church slavic",
+      "cz": "Czech",
+      "da": "Danish",
+      "de": "Deutsch",
+      "de-at": "German (Austria)",
+      "el": "Greek",
+      "en": "English",
+      "es": "Spanish",
+      "fa": "Persian",
+      "fr": "French",
+      "frm": "Middle french",
+      "gmh": "Middle high german",
+      "gml": "Middle low german",
+      "gr": "Greek",
+      "grc": "Ancient greek",
+      "hbo": "Ancient hebrew",
+      "he": "Hebrew",
+      "hu": "Hungarian",
+      "is": "Icelandic",
+      "it": "Italian",
+      "ji": "Yiddish",
+      "ka": "Georgian",
+      "la": "Latin",
+      "nl": "Dutch",
+      "no": "Norwegian",
+      "oc": "Occitan",
+      "pl": "Polish",
+      "ro": "Romanian",
+      "ru": "Russian",
+      "sa": "Sanskrit",
+      "sk": "Slovak",
+      "sl": "Slovenian",
+      "so": "Sorbian",
+      "sv": "Swedish",
+      "tr": "Turkish",
+      "tü": "Turkish",
+      "yi": "Yiddish",
+      "zh": "Chinese"
+    },
+    "language-facet": {
+      "__field__": "Language",
+      "ar": "Arabic",
+      "ara": "Arabic",
+      "bg": "Bulgarian",
+      "ca": "Catalan",
+      "chu": "Church slavic",
+      "cs": "Czech",
+      "cu": "Church slavic",
+      "cz": "Czech",
+      "da": "Danish",
+      "de": "German",
+      "de-at": "German (Austria)",
+      "el": "Greek",
+      "en": "English",
+      "es": "Spanish",
+      "fa": "Persian",
+      "fr": "French",
+      "frm": "Middle french",
+      "gmh": "Middle high german",
+      "gml": "Middle low german",
+      "gr": "Greek",
+      "grc": "Ancient greek",
+      "hbo": "Ancient hebrew",
+      "he": "Hebrew",
+      "hu": "Hungarian",
+      "is": "Icelandic",
+      "it": "Italian",
+      "ji": "Yiddish",
+      "ka": "Georgian",
+      "la": "Latin",
+      "nl": "Dutch",
+      "no": "Norwegian",
+      "oc": "Occitan",
+      "pl": "Polish",
+      "ro": "Romanian",
+      "ru": "Russian",
+      "sa": "Sanskrit",
+      "sk": "Slovak",
+      "sl": "Slovenian",
+      "so": "Sorbian",
+      "sv": "Swedish",
+      "tr": "Turkish",
+      "tü": "Turkish",
+      "yi": "Yiddish",
+      "zh": "Chinese"
+    },
+    "language-search": {
+      "__field__": "Language"
+    },
+    "leaves-count-display": {
+      "__field__": "Extent"
+    },
+    "leaves-count-facet": {
+      "__field__": "Extent"
+    },
+    "material-display": {
+      "__field__": "Material",
+      "chart": "Paper",
+      "linen": "Linen",
+      "mixed": "Mixed materials",
+      "palm": "Palm",
+      "papyrus": "Papyrus",
+      "perg": "Parchment",
+      "perg_chart": "Parchment and paper",
+      "Sonstiges": "Misc.",
+      "unknown": "Unknown",
+      "wood": "Wood"
+    },
+    "material-facet": {
+      "__field__": "Material",
+      "chart": "Paper",
+      "linen": "Linen",
+      "mixed": "Mixed materials",
+      "palm": "Palm",
+      "papyrus": "Papyrus",
+      "perg": "Parchment",
+      "perg_chart": "Parchment and paper",
+      "Sonstiges": "Misc.",
+      "unknown": "Unknown",
+      "wood": "Wood"
+    },
+    "material-search": {
+      "__field__": "Material"
+    },
+    "ms-identifier-search": {
+      "__field__": "Shelfmark"
+    },
+    "object-type-display": {
+      "__field__": "Object type",
+      "codex": "Codex",
+      "collection": "Collection",
+      "composite": "Composite",
+      "fragment": "Fragment",
+      "miscellany": "Sammelband",
+      "other": "Other",
+      "postcard": "Postcard",
+      "printWithManuscriptParts": "Print with manuscript parts",
+      "sammelband": "Sammelband",
+      "scroll": "Scroll",
+      "singleSheet": "Single sheet",
+      "unknown": "Unknown"
+    },
+    "object-type-facet": {
+      "__field__": "Object type",
+      "codex": "Codex",
+      "collection": "Collection",
+      "composite": "Composite",
+      "fragment": "Fragment",
+      "miscellany": "Sammelband",
+      "other": "Other",
+      "postcard": "Postcard",
+      "printWithManuscriptParts": "Print with manuscript parts",
+      "sammelband": "Sammelband",
+      "scroll": "Scroll",
+      "singleSheet": "Single sheet",
+      "unknown": "Unknown"
+    },
+    "object-type-search": {
+      "__field__": "Object type"
+    },
+    "orig-date-facet": {
+      "__field__": "Date of origin"
+    },
+    "orig-date-from-search": {
+      "__field__": "Date of origin from"
+    },
+    "orig-date-lang-display": {
+      "__field__": "Date of origin"
+    },
+    "orig-date-to-search": {
+      "__field__": "Date of origin to"
+    },
+    "orig-date-when-search": {
+      "__field__": "Date of origin"
+    },
+    "orig-place-display": {
+      "__field__": "Place of origin"
+    },
+    "orig-place-facet": {
+      "__field__": "Place of origin"
+    },
+    "orig-place-search": {
+      "__field__": "Place of origin"
+    },
+    "person-search": {
+      "__field__": "Person"
+    },
+    "physical-description-search": {
+      "__field__": "Physical description"
+    },
+    "repository-display": {
+      "__field__": "Holding institution"
+    },
+    "repository-facet": {
+      "__field__": "Institution"
+    },
+    "repository-search": {
+      "__field__": "Holding institution"
+    },
+    "settlement-display": {
+      "__field__": "Settlement"
+    },
+    "settlement-facet": {
+      "__field__": "Settlement"
+    },
+    "settlement-search": {
+      "__field__": "Settlement"
+    },
+    "status-display": {
+      "__field__": "Status"
+    },
+    "status-search": {
+      "__field__": "Status"
+    },
+    "subtype-display": {
+      "completeFromOriginal": "Digital image, complete",
+      "completeFromSurrogate": "Digital image of surrogate, complete",
+      "partFromOriginal": "Digital image, partial",
+      "partFromSurrogate": "Digital image of surrogate, partial",
+      "watermark": "Watermark"
+    },
+    "title-display": {
+      "__field__": "Title"
+    },
+    "title-search": {
+      "__field__": "Title"
+    },
+    "type": {
+      "__field__": "Document type",
+      "hsp:description": "Manuscript description",
+      "hsp:object": "Basic data"
+    },
+    "width-facet": {
+      "__field__": "Width"
+    },
+    "work-title-search": {
+      "__field__": "Work title"
+    }
+  },
+  "applyButton": "Apply",
+  "buttonNext": "Next",
+  "buttonPrevious": "Previous",
+  "enterSearchTerm": "Please enter a search query.",
+  "filterPanel": {
+    "activateRangeFilter": "Use filter",
+    "applyButtonWithResult": "{{numGroups}} object/s",
+    "exactPeriod": "Period entirely within range",
+    "filterButton": "Filters",
+    "filterGroups": {
+      "appearance": "Physical description",
+      "general": "Holding institution",
+      "history": "Origin",
+      "language": "Language"
+    },
+    "missing": "(Empty)",
+    "noData": "(Empty)",
+    "rangeFrom": "from",
+    "rangeTo": "to",
+    "removeAllFilters": "Clear all filters",
+    "showLessFilterOptions": "Less",
+    "showMoreFilterOptions": "More"
+  },
+  "hit": {
+    "collapse": "Collapse",
+    "expand": "Expand",
+    "showResultContext": "Show result context"
+  },
+  "listVariants": {
+    "hitsExpanded": "Maximized",
+    "hitsTop": "Basic data",
+    "hitsBottom": "Result context",
+    "hitsCollapsed": "Shelfmark",
+    "listVariants": "List variants"
+  },
+  "loading": "Loading content",
+  "numberOfHits": "{{numGroups}} object/s",
+  "overview": {
+    "annotationsNotAvailable": "Annotations not yet available",
+    "buttonBackToSearch": "Back to search",
+    "digitalImages": "Digital images",
+    "manuscriptDescriptions": "Manuscript descriptions",
+    "position": "{{index}} of {{numGroups}}",
+    "showDigitalImages": "Show digital images",
+    "showManuscriptDescriptions":  "Show manuscript descriptions"
+  },
+  "paging": {
+    "goToNextPage": "Go to next page",
+    "goToPage": "Go to page {{pageNumber}}",
+    "goToPreviousPage": "Go to previous page"
+  },
+  "resources": {
+    "openManifestInWorkarea": "Open digital images in work area",
+    "openDigitalImagesExternal": "Open digital images in external view",
+    "thumbnailImage": "Thumbnail for digital images "
+  },
+  "searchBar": {
+    "advancedButton": "Advanced search",
+    "advancedSearchNotAvailable": "Advanced search functionalities are not yet available.",
+    "allFields": "All",
+    "searchButton": "Search",
+    "searchFieldSelection": "Search field"
+  },
+  "searchFailed": "An error occured.",
+  "searchResults": "Search results",
+  "sortOptionName": "Sort",
+  "sortOptions": {
+    "scoreDesc": "Sort by Relevance",
+    "msIdentifierAsc": "Sort by Shelfmark (asc)",
+    "msIdentifierDesc": "Sort by Shelfmark (desc)",
+    "origDateAsc": "Sort by Date of origin (asc)",
+    "origDateDesc": "Sort by Date of origin (desc)"
+  }
+}

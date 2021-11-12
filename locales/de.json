@@ -1,0 +1,434 @@
+{
+  "data": {
+    "accompanying-material-search": {
+      "__field__": "Beigaben"
+    },
+    "binding-search": {
+      "__field__": "Einband"
+    },
+    "binding-orig-place-search": {
+      "__field__": "Einband: Entstehungsort-/raum"
+    },
+    "booklet-search": {
+      "__field__": "Faszikel"
+    },
+    "collection-search": {
+      "__field__": "Sammlung"
+    },
+    "decoration-search": {
+      "__field__": "Äußeres: Kunst"
+    },
+    "desc-author-search": {
+      "__field__": "Beschreibungsautor"
+    },
+    "desc-publish-date-facet": {
+      "__field__": "Publikationsjahr"
+    },
+    "described-object-facet": {
+      "__field__": "Beschreibungen vorhanden",
+      "true": "Mit Beschreibungen"
+    },
+    "digitized-object-facet": {
+      "__field__": "Digitalisate vorhanden",
+      "true": "Mit Digitalisaten"
+    },
+    "digitized-iiif-object-facet": {
+      "__field__": "IIIF-Digitalisate vorhanden",
+      "true": "IIIF"
+    },
+    "dimensions-display": {
+      "__field__": "Abmessungen"
+    },
+    "explicit-search": {
+      "__field__": "Explicit"
+    },
+    "FIELD-GROUP-BASIC": {
+      "__field__": "Basisdaten"
+    },
+    "FIELD-GROUP-FULLTEXT": {
+      "__field__": "Volltext"
+    },
+    "FIELD-GROUP-ORIGIN": {
+      "__field__": "Entstehungsort-/raum"
+    },
+    "FIELD-GROUP-PERSON": {
+      "__field__": "Personenname"
+    },
+    "FIELD-GROUP-SIGNATURE": {
+      "__field__": "Signatur"
+    },
+    "format-display": {
+      "__field__": "Format"
+    },
+    "format-search": {
+      "__field__": "Format"
+    },
+    "fulltext-search": {
+      "__field__": "Volltext"
+    },
+    "has-notation-display": {
+      "__field__": "Notation enthalten"
+    },
+    "has-notation-search": {
+      "__field__": "Notation enthalten"
+    },
+    "height-facet": {
+      "__field__": "Höhe"
+    },
+    "history-search": {
+      "__field__": "Geschichte"
+    },
+    "id-search": {
+      "__field__": "HSP-ID"
+    },
+    "id": {
+      "__field__": "HSP-ID"
+    },
+    "idno-alternative-search": {
+      "__field__": "Alternative Signatur"
+    },
+    "idno-display": {
+      "__field__": "Signatur"
+    },
+    "idno-search": {
+      "__field__": "Signatur"
+    },
+    "illuminated-display": {
+      "__field__": "Buchschmuck enthalten"
+    },
+    "illuminated-search": {
+      "__field__": "Buchschmuck enthalten"
+    },
+    "incipit-search": {
+      "__field__": "Incipit"
+    },
+    "item-iconography-search": {
+      "__field__": "Inhalt (Kunst)"
+    },
+    "item-music-search": {
+      "__field__": "Inhalt (Musik)"
+    },
+    "item-text-search": {
+      "__field__": "Inhalt (Text)"
+    },
+    "language-display": {
+      "__field__": "Sprache",
+      "ar": "Arabisch",
+      "ara": "Arabisch",
+      "bg": "Bulgarisch",
+      "ca": "Katalanisch",
+      "chu": "Kirchenslawisch",
+      "cs": "Tschechisch",
+      "cu": "Kirchenslawisch",
+      "cz": "Tschechisch",
+      "da": "Dänisch",
+      "de": "Deutsch",
+      "de-at": "Deutsch (Österreich)",
+      "el": "Griechisch",
+      "en": "Englisch",
+      "es": "Spanisch",
+      "fa": "Persisch",
+      "fr": "Französisch",
+      "frm": "Mittelfranzösisch",
+      "gmh": "Mittelhochdeutsch",
+      "gml": "Mittelniederdeutsch",
+      "gr": "Griechisch",
+      "grc": "Altgriechisch",
+      "hbo": "Althebräisch",
+      "he": "Hebräisch",
+      "hu": "Ungarisch",
+      "is": "Isländisch",
+      "it": "Italienisch",
+      "ji": "Jiddisch",
+      "ka": "Georgisch",
+      "la": "Latein",
+      "nl": "Niederländisch",
+      "no": "Norwegisch",
+      "oc": "Okzitanisch",
+      "pl": "Polnisch",
+      "ro": "Rumänisch",
+      "ru": "Russisch",
+      "sa": "Sanskrit",
+      "sk": "Slowakisch",
+      "sl": "Slowenisch",
+      "so": "Sorbisch",
+      "sv": "Schwedisch",
+      "tr": "Türkisch",
+      "tü": "Türkisch",
+      "yi": "Jiddisch",
+      "zh": "Chinesisch"
+    },
+    "language-facet": {
+      "__field__": "Sprache",
+      "ar": "Arabisch",
+      "ara": "Arabisch",
+      "bg": "Bulgarisch",
+      "ca": "Katalanisch",
+      "chu": "Kirchenslawisch",
+      "cs": "Tschechisch",
+      "cu": "Kirchenslawisch",
+      "cz": "Tschechisch",
+      "da": "Dänisch",
+      "de": "Deutsch",
+      "de-at": "Deutsch (Österreich)",
+      "el": "Griechisch",
+      "en": "Englisch",
+      "es": "Spanisch",
+      "fa": "Persisch",
+      "fr": "Französisch",
+      "frm": "Mittelfranzösisch",
+      "gmh": "Mittelhochdeutsch",
+      "gml": "Mittelniederdeutsch",
+      "gr": "Griechisch",
+      "grc": "Altgriechisch",
+      "hbo": "Althebräisch",
+      "he": "Hebräisch",
+      "hu": "Ungarisch",
+      "is": "Isländisch",
+      "it": "Italienisch",
+      "ji": "Jiddisch",
+      "ka": "Georgisch",
+      "la": "Latein",
+      "nl": "Niederländisch",
+      "no": "Norwegisch",
+      "oc": "Okzitanisch",
+      "pl": "Polnisch",
+      "ro": "Rumänisch",
+      "ru": "Russisch",
+      "sa": "Sanskrit",
+      "sk": "Slowakisch",
+      "sl": "Slowenisch",
+      "so": "Sorbisch",
+      "sv": "Schwedisch",
+      "tr": "Türkisch",
+      "tü": "Türkisch",
+      "yi": "Jiddisch",
+      "zh": "Chinesisch"
+    },
+    "language-search": {
+      "__field__": "Sprache"
+    },
+    "leaves-count-display": {
+      "__field__": "Umfang"
+    },
+    "leaves-count-facet": {
+      "__field__": "Umfang"
+    },
+    "material-display": {
+      "__field__": "Beschreibstoff",
+      "chart": "Papier",
+      "linen": "Leinen",
+      "mixed": "Mischung verschiedener Materialien",
+      "palm": "Palmblätter",
+      "papyrus": "Papyrus",
+      "perg": "Pergament",
+      "perg_chart": "Pergament und Papier",
+      "Sonstiges": "Sonstiges",
+      "unknown": "Unbekannt",
+      "wood": "Holz"
+    },
+    "material-facet": {
+      "__field__": "Beschreibstoff",
+      "chart": "Papier",
+      "linen": "Leinen",
+      "mixed": "Mischung verschiedener Materialien",
+      "palm": "Palmblätter",
+      "papyrus": "Papyrus",
+      "perg": "Pergament",
+      "perg_chart": "Pergament und Papier",
+      "Sonstiges": "Sonstiges",
+      "unknown": "Unbekannt",
+      "wood": "Holz"
+    },
+    "material-search": {
+      "__field__": "Beschreibstoff"
+    },
+    "ms-identifier-search": {
+      "__field__": "Signatur"
+    },
+    "object-type-display": {
+      "__field__": "Objekttyp",
+      "codex": "Codex",
+      "collection": "Sammlung",
+      "composite": "Zusammengesetzte Handschrift",
+      "fragment": "Fragment",
+      "miscellany": "Sammelband",
+      "other": "Sonstiges",
+      "postcard": "Postkarte",
+      "printWithManuscriptParts": "Druck mit handschriftlichen Anteilen",
+      "sammelband": "Sammelband",
+      "scroll": "Rotulus",
+      "singleSheet": "Einblatthandschrift",
+      "unknown": "Unbekannt"
+    },
+    "object-type-facet": {
+      "__field__": "Objekttyp",
+      "codex": "Codex",
+      "collection": "Sammlung",
+      "composite": "Zusammengesetzte Handschrift",
+      "fragment": "Fragment",
+      "miscellany": "Sammelband",
+      "other": "Sonstiges",
+      "postcard": "Postkarte",
+      "printWithManuscriptParts": "Druck mit handschriftlichen Anteilen",
+      "sammelband": "Sammelband",
+      "scroll": "Rotulus",
+      "singleSheet": "Einblatthandschrift",
+      "unknown": "Unbekannt"
+    },
+    "object-type-search": {
+      "__field__": "Objekttyp"
+    },
+    "orig-date-facet": {
+      "__field__": "Entstehungszeit"
+    },
+    "orig-date-from-search": {
+      "__field__": "Entstehungszeit von"
+    },
+    "orig-date-lang-display": {
+      "__field__": "Entstehungszeit"
+    },
+    "orig-date-to-search": {
+      "__field__": "Entstehungszeit bis"
+    },
+    "orig-date-when-search": {
+      "__field__": "Entstehungszeit"
+    },
+    "orig-place-display": {
+      "__field__": "Entstehungsort/-raum"
+    },
+    "orig-place-facet": {
+      "__field__": "Entstehungsort/-raum"
+    },
+    "orig-place-search": {
+      "__field__": "Entstehungsort/-raum"
+    },
+    "person-search": {
+      "__field__": "Person"
+    },
+    "physical-description-search": {
+      "__field__": "Äußeres"
+    },
+    "repository-display": {
+      "__field__": "Einrichtung"
+    },
+    "repository-facet": {
+      "__field__": "Einrichtung"
+    },
+    "repository-search": {
+      "__field__": "Einrichtung"
+    },
+    "settlement-display": {
+      "__field__": "Ort"
+    },
+    "settlement-facet": {
+      "__field__": "Ort"
+    },
+    "settlement-search": {
+      "__field__": "Ort"
+    },
+    "status-display": {
+      "__field__": "Status"
+    },
+    "status-search": {
+      "__field__": "Status"
+    },
+    "subtype-display": {
+      "completeFromOriginal": "Digitalisat, vollständig",
+      "completeFromSurrogate": "Digitalisat von Sekundärform, vollständig",
+      "partFromOriginal": "Digitalisat, anteilig",
+      "partFromSurrogate": "Digitalisat von Sekundärform, anteilig",
+      "watermark": "Wasserzeichen"
+    },
+    "title-display": {
+      "__field__": "Titel"
+    },
+    "title-search": {
+      "__field__": "Titel"
+    },
+    "type": {
+      "__field__": "Dokumenttyp",
+      "hsp:description": "Handschriftenbeschreibung",
+      "hsp:object": "Basisdaten"
+    },
+    "width-facet": {
+      "__field__": "Breite"
+    },
+    "work-title-search": {
+      "__field__": "Werktitel"
+    }
+  },
+  "applyButton": "Anwenden",
+  "buttonNext": "Weiter",
+  "buttonPrevious": "Zurück",
+  "enterSearchTerm": "Bitte Suchbegriff eingeben",
+  "filterPanel": {
+    "activateRangeFilter": "Filter aktivieren",
+    "applyButtonWithResult": "{{numGroups}} Handschrift/en",
+    "exactPeriod": "Zeitraum komplett innerhalb der Range",
+    "filterButton": "Filter",
+    "filterGroups": {
+      "appearance": "Äußeres",
+      "general": "Besitz",
+      "history": "Entstehung",
+      "language": "Sprache"
+    },
+    "missing": "(Leere)",
+    "noData": "(Leere)",
+    "rangeFrom": "von",
+    "rangeTo": "bis",
+    "removeAllFilters": "Alle Filter zurücksetzen",
+    "showLessFilterOptions": "Weniger",
+    "showMoreFilterOptions": "Mehr"
+  },
+  "hit": {
+    "collapse": "Zuklappen",
+    "expand": "Aufklappen",
+    "showResultContext": "Zeige Trefferkontext"
+  },
+  "listVariants": {
+    "hitsExpanded": "Maximiert",
+    "hitsTop": "Basisdaten",
+    "hitsBottom": "Trefferkontext",
+    "hitsCollapsed": "Signatur",
+    "listVariants": "Listenansicht"
+  },
+  "loading": "Inhalte werden geladen.",
+  "numberOfHits": "{{numGroups}} Handschrift/en",
+  "overview": {
+    "annotationsNotAvailable": "Annotationen noch nicht verfügbar",
+    "buttonBackToSearch": "Zurück zur Suche",
+    "digitalImages": "Digitalisate",
+    "manuscriptDescriptions": "Beschreibungen",
+    "position": "{{index}} von {{numGroups}}",
+    "showDigitalImages": "Zeige Digitalisate",
+    "showManuscriptDescriptions": "Zeige Beschreibungen"
+  },
+  "paging": {
+    "goToNextPage": "Zur nächsten Seite wechseln",
+    "goToPage": "Zu Seite {{pageNumber}} wechseln",
+    "goToPreviousPage": "Zur vorhergehenden Seite wechseln"
+  },
+  "resources": {
+    "openManifestInWorkarea": "Digitalisat im Arbeitsbereich öffnen",
+    "openDigitalImagesExternal": "Externe Digitalisatsansicht öffnen",
+    "thumbnailImage": "Vorschaubild zum Digitalisat"
+  },
+  "searchBar": {
+    "advancedButton": "Erweiterte Suche",
+    "advancedSearchNotAvailable": "Die erweiterte Suche steht noch nicht zur Verfügung.",
+    "allFields": "Alles",
+    "searchButton": "Suchen",
+    "searchFieldSelection": "Suchfeld"
+  },
+  "searchFailed": "Ein Fehler ist aufgetreten.",
+  "searchResults": "Suchergebnisse",
+  "sortOptionName": "Sortieren",
+  "sortOptions": {
+    "scoreDesc": "Sortiert nach Relevanz",
+    "msIdentifierAsc": "Sortiert nach Signatur (A-Z)",
+    "msIdentifierDesc": "Sortiert nach Signatur (Z-A)",
+    "origDateAsc": "Sortiert nach Entstehungszeit (aufst.)",
+    "origDateDesc": "Sortiert nach Entstehungszeit (abst.)"
+  }
+}
