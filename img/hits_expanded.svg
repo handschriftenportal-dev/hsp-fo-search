@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/view_result_top_bottom</title>
+    <g id="Icon/view_result_top_bottom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-3" stroke="#000000" x="0.5" y="0.5" width="16" height="9"></rect>
+        <rect id="Rectangle-Copy-15" fill="#000000" x="2" y="2" width="7" height="1"></rect>
+        <path d="M14,9 C14.5522847,9 15,9.44771525 15,10 L15,15 C15,15.5522847 14.5522847,16 14,16 L3,16 C2.44771525,16 2,15.5522847 2,15 L2,10 C2,9.44771525 2.44771525,9 3,9 L14,9 Z M10,13 L3,13 L3,14 L10,14 L10,13 Z M10,11 L3,11 L3,12 L10,12 L10,11 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

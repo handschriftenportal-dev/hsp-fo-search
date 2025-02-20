@@ -1,0 +1,729 @@
+{
+  "buttonNext": "Next",
+  "buttonPrevious": "Previous",
+  "cancel": "Cancel",
+  "data": {
+    "FIELD-GROUP-BASIC": {
+      "__field__": "Basic data"
+    },
+    "FIELD-GROUP-FULLTEXT": {
+      "__field__": "Fulltext"
+    },
+    "FIELD-GROUP-INCIPIT": {
+      "__field__": "Incipit"
+    },
+    "FIELD-GROUP-ORIGIN": {
+      "__field__": "Place of origin"
+    },
+    "FIELD-GROUP-PERSON": {
+      "__field__": "Name"
+    },
+    "FIELD-GROUP-QUOTE": {
+      "__field__": "Text quote"
+    },
+    "FIELD-GROUP-SIGNATURE": {
+      "__field__": "Shelfmark"
+    },
+    "FIELD-GROUP-TITLE": {
+      "__field__": "Title"
+    },
+    "__MISSING__": "(Empty)",
+    "accompanying-material-search": {
+      "__field__": "Accompanying material"
+    },
+    "author-search": {
+      "__field__": "Author"
+    },
+    "binding-orig-place-search": {
+      "__field__": "Binding: place of origin"
+    },
+    "binding-search": {
+      "__field__": "Binding"
+    },
+    "booklet-search": {
+      "__field__": "Fascicle"
+    },
+    "catalog-id-display": {
+      "__field__": "Catalogue id"
+    },
+    "collection-search": {
+      "__field__": "Collection"
+    },
+    "colophon-search": {
+      "__field__": "Colophon"
+    },
+    "decoration-search": {
+      "__field__": "Decoration"
+    },
+    "desc-status-facet": {
+      "__field__": "Description: status"
+    },
+    "described-object-facet": {
+      "__field__": "Has manuscript descriptions",
+      "true": "With manuscript descriptions"
+    },
+    "described-object-search": {
+      "__field__": "Manuscript descriptions(s) available",
+      "false": "false",
+      "true": "true"
+    },
+    "digitization-institution-display": {
+      "__field__": "Digitizing institution"
+    },
+    "digitization-settlement-display": {
+      "__field__": "Digitizing institution: place"
+    },
+    "digitized": "Digitized:",
+    "digitized-iiif-object-facet": {
+      "__field__": "Has IIIF resources",
+      "true": "IIIF"
+    },
+    "digitized-iiif-object-search": {
+      "__field__": "IIIF image(s) available",
+      "false": "false",
+      "true": "true"
+    },
+    "digitized-object-facet": {
+      "__field__": "Has digital images",
+      "true": "With digital images"
+    },
+    "digitized-object-search": {
+      "__field__": "Digital image(s) available",
+      "false": "false",
+      "true": "true"
+    },
+    "dimensions-display": {
+      "__field__": "Dimensions"
+    },
+    "explicit-search": {
+      "__field__": "Explicit"
+    },
+    "extPrasentation": "External presentation:",
+    "external-uri-display": {
+      "__field__": "External URL"
+    },
+    "format-display": {
+      "__field__": "Format",
+      "folio": "Folio",
+      "larger than folio": "Larger than folio",
+      "long and narrow": "Narrow format",
+      "oblong": "Oblong format",
+      "octavo": "Octavo",
+      "other": "Other",
+      "quarto": "Quarto",
+      "smaller than octavo": "Smaller than octavo",
+      "square": "Square format"
+    },
+    "format-facet": {
+      "__field__": "Format",
+      "folio": "Folio",
+      "larger than folio": "Larger than folio",
+      "long and narrow": "Narrow format",
+      "oblong": "Oblong format",
+      "octavo": "Octavo",
+      "other": "Other",
+      "quarto": "Quarto",
+      "smaller than octavo": "Smaller than octavo",
+      "square": "Square format"
+    },
+    "format-search": {
+      "__field__": "Format",
+      "folio": "Folio",
+      "larger than folio": "Larger than folio",
+      "long and narrow": "Narrow format",
+      "oblong": "Oblong format",
+      "octavo": "Octavo",
+      "other": "Other",
+      "quarto": "Quarto",
+      "smaller than octavo": "Smaller than octavo",
+      "square": "Square format"
+    },
+    "former-ms-identifier-display": { "__field__": "Previous owner" },
+    "former-ms-identifier-search": { "__field__": "Previous owner" },
+    "former-repository-display": {
+      "__field__": "Previously owning institution"
+    },
+    "former-repository-search": {
+      "__field__": "Previously owning institution"
+    },
+    "fragment-search": {
+      "__field__": "Fragment"
+    },
+    "fulltext-search": {
+      "__field__": "Complete text of description"
+    },
+    "group-id-search": {
+      "__field__": "KOD id"
+    },
+    "has-notation-display": {
+      "__field__": "Musical notation",
+      "no": "Not included",
+      "yes": "Included"
+    },
+    "has-notation-facet": {
+      "__field__": "Musical notation",
+      "no": "Not included",
+      "yes": "Included"
+    },
+    "has-notation-search": {
+      "__field__": "Musical notation",
+      "no": "not included",
+      "yes": "included"
+    },
+    "height-facet": {
+      "__field__": "Height"
+    },
+    "height-search": {
+      "__field__": "Height"
+    },
+    "history-search": {
+      "__field__": "History"
+    },
+    "id": {
+      "__field__": "HSP ID"
+    },
+    "id-search": {
+      "__field__": "HSP ID"
+    },
+    "idno-alternative-search": {
+      "__field__": "Admin.: Alternative shelfmark"
+    },
+    "idno-display": {
+      "__field__": "Shelfmark"
+    },
+    "idno-search": {
+      "__field__": "Admin: Shelfmark"
+    },
+    "illuminated-display": {
+      "__field__": "Decoration",
+      "no": "Not included",
+      "yes": "Included"
+    },
+    "illuminated-facet": {
+      "__field__": "Decoration",
+      "no": "Not included",
+      "yes": "Included"
+    },
+    "illuminated-search": {
+      "__field__": "Decoration",
+      "no": "not included",
+      "yes": "included"
+    },
+    "incipit-search": {
+      "__field__": "Incipit (unnormalized)"
+    },
+    "initium-search": {
+      "__field__": "Incipit (normalized)"
+    },
+    "institution-mentioned-search": {
+      "__field__": "Mentioned institution"
+    },
+    "institution-previously-owning-search": {
+      "__field__": "Previously owning institution"
+    },
+    "institution-producing-search": {
+      "__field__": "Producing institution"
+    },
+    "item-iconography-search": {
+      "__field__": "Content (iconography)"
+    },
+    "item-music-search": {
+      "__field__": "Content (music)"
+    },
+    "item-text-search": {
+      "__field__": "Content (text)"
+    },
+    "language-display": {
+      "__field__": "Language",
+      "ar": "Arabic",
+      "ara": "Arabic",
+      "bg": "Bulgarian",
+      "ca": "Catalan",
+      "chu": "Church slavic",
+      "cs": "Czech",
+      "cu": "Church slavic",
+      "cz": "Czech",
+      "da": "Danish",
+      "de": "Deutsch",
+      "de-at": "German (Austria)",
+      "el": "Greek",
+      "en": "English",
+      "es": "Spanish",
+      "fa": "Persian",
+      "fr": "French",
+      "frm": "Middle french",
+      "gmh": "Middle high german",
+      "gml": "Middle low german",
+      "gr": "Greek",
+      "grc": "Ancient greek",
+      "hbo": "Ancient hebrew",
+      "he": "Hebrew",
+      "hu": "Hungarian",
+      "is": "Icelandic",
+      "it": "Italian",
+      "ji": "Yiddish",
+      "ka": "Georgian",
+      "la": "Latin",
+      "nl": "Dutch",
+      "no": "Norwegian",
+      "oc": "Occitan",
+      "pl": "Polish",
+      "pt": "Portugese",
+      "ro": "Romanian",
+      "ru": "Russian",
+      "sa": "Sanskrit",
+      "si": "Sinhala",
+      "sk": "Slovak",
+      "sl": "Slovenian",
+      "sv": "Swedish",
+      "syc": "Syriac",
+      "ta": "Tamil",
+      "tr": "Turkish",
+      "tü": "Turkish",
+      "unk": "Unknown",
+      "wen": "Sorbian",
+      "yi": "Yiddish",
+      "zh": "Chinese"
+    },
+    "language-facet": {
+      "__field__": "Language",
+      "ar": "Arabic",
+      "ara": "Arabic",
+      "bg": "Bulgarian",
+      "ca": "Catalan",
+      "chu": "Church slavic",
+      "cs": "Czech",
+      "cu": "Church slavic",
+      "cz": "Czech",
+      "da": "Danish",
+      "de": "German",
+      "de-at": "German (Austria)",
+      "el": "Greek",
+      "en": "English",
+      "es": "Spanish",
+      "fa": "Persian",
+      "fr": "French",
+      "frm": "Middle french",
+      "gmh": "Middle high german",
+      "gml": "Middle low german",
+      "gr": "Greek",
+      "grc": "Ancient greek",
+      "hbo": "Ancient hebrew",
+      "he": "Hebrew",
+      "hu": "Hungarian",
+      "is": "Icelandic",
+      "it": "Italian",
+      "ji": "Yiddish",
+      "ka": "Georgian",
+      "la": "Latin",
+      "nl": "Dutch",
+      "no": "Norwegian",
+      "oc": "Occitan",
+      "pl": "Polish",
+      "pt": "Portugese",
+      "ro": "Romanian",
+      "ru": "Russian",
+      "sa": "Sanskrit",
+      "si": "Sinhala",
+      "sk": "Slovak",
+      "sl": "Slovenian",
+      "sv": "Swedish",
+      "syc": "Syriac",
+      "ta": "Tamil",
+      "tr": "Turkish",
+      "tü": "Turkish",
+      "unk": "Unknown",
+      "wen": "Sorbian",
+      "yi": "Yiddish",
+      "zh": "Chinese"
+    },
+    "language-search": {
+      "__field__": "Language"
+    },
+    "leaves-count-display": {
+      "__field__": "Extent"
+    },
+    "leaves-count-facet": {
+      "__field__": "Extent"
+    },
+    "leaves-count-search": {
+      "__field__": "Extent"
+    },
+    "manifest-uri-display": {
+      "__field__": "Has IIIF resources"
+    },
+    "material-display": {
+      "__field__": "Support",
+      "linen": "Linen",
+      "other": "Misc.",
+      "palm": "Palm",
+      "paper": "Paper",
+      "papyrus": "Papyrus",
+      "parchment": "Parchment"
+    },
+    "material-facet": {
+      "__field__": "Support",
+      "linen": "Linen",
+      "other": "Misc.",
+      "palm": "Palm",
+      "paper": "Paper",
+      "papyrus": "Papyrus",
+      "parchment": "Parchment"
+    },
+    "material-search": {
+      "__field__": "Support"
+    },
+    "ms-identifier-search": {
+      "__field__": "Identifying shelfmark"
+    },
+    "object-type-display": {
+      "__MISSING__": "Manuscript",
+      "__field__": "Form",
+      "codex": "Codex",
+      "collection": "Collection",
+      "composite": "Composite",
+      "fragment": "Fragment",
+      "hostVolume": "Host volume",
+      "leporello": "Leporello",
+      "miscellany": "Sammelband",
+      "other": "Other",
+      "postcard": "Postcard",
+      "printWithManuscriptParts": "Print with manuscript parts",
+      "sammelband": "Sammelband",
+      "scroll": "Scroll",
+      "singleSheet": "Single sheet",
+      "unknown": "Unknown"
+    },
+    "object-type-facet": {
+      "__field__": "Form",
+      "codex": "Codex",
+      "collection": "Collection",
+      "composite": "Composite",
+      "fragment": "Fragment",
+      "hostVolume": "Host volume",
+      "miscellany": "Sammelband",
+      "other": "Other",
+      "postcard": "Postcard",
+      "printWithManuscriptParts": "Print with manuscript parts",
+      "sammelband": "Sammelband",
+      "scroll": "Scroll",
+      "singleSheet": "Single sheet",
+      "unknown": "Unknown"
+    },
+    "object-type-search": {
+      "__field__": "Form",
+      "codex": "Codex",
+      "collection": "Collection",
+      "composite": "Composite",
+      "fragment": "Fragment",
+      "hostVolume": "Host volume",
+      "leporello": "Leporello",
+      "miscellany": "Sammelband",
+      "other": "Other",
+      "postcard": "Postcard",
+      "printWithManuscriptParts": "Print with manuscript parts",
+      "sammelband": "Sammelband",
+      "scroll": "Scroll",
+      "singleSheet": "Single sheet",
+      "unknown": "Unknown"
+    },
+    "orig-date-facet": {
+      "__field__": "Date of origin"
+    },
+    "orig-date-from-search": {
+      "__field__": "Date of origin (period start)"
+    },
+    "orig-date-lang-display": {
+      "__field__": "Date of origin"
+    },
+    "orig-date-to-search": {
+      "__field__": "Date of origin (period end)"
+    },
+    "orig-date-type-facet": {
+      "__field__": "Type of date",
+      "datable": "Datable",
+      "dated": "Dated"
+    },
+    "orig-date-type-search": {
+      "__field__": "Type of date",
+      "datable": "datable",
+      "dated": "dated"
+    },
+    "orig-date-when-facet": {
+      "__field__": "Date of origin: specific"
+    },
+    "orig-date-when-search": {
+      "__field__": "Date of origin (year)"
+    },
+    "orig-place-display": {
+      "__field__": "Place of origin"
+    },
+    "orig-place-facet": {
+      "__field__": "Place of origin"
+    },
+    "orig-place-search": {
+      "__field__": "Place of origin"
+    },
+    "persistent-url-display": {
+      "__field__": "PURL"
+    },
+    "person-author-search": {
+      "__field__": "Author"
+    },
+    "person-bookbinder-search": {
+      "__field__": "Binder"
+    },
+    "person-commissioned-by-search": {
+      "__field__": "Commissioner"
+    },
+    "person-conservator-search": {
+      "__field__": "Restorer"
+    },
+    "person-illuminator-search": {
+      "__field__": "Illuminator"
+    },
+    "person-mentioned-in-search": {
+      "__field__": "Mentioned person"
+    },
+    "person-other-search": {
+      "__field__": "Other person"
+    },
+    "person-previous-owner-search": {
+      "__field__": "Previous owner"
+    },
+    "person-scribe-search": {
+      "__field__": "Scribe"
+    },
+    "person-search": {
+      "__field__": "Person"
+    },
+    "person-translator-search": {
+      "__field__": "Translator"
+    },
+    "physical-description-search": {
+      "__field__": "Physical description"
+    },
+    "publish-year-facet": {
+      "__field__": "Year of publication"
+    },
+    "publish-year-search": {
+      "__field__": "Year of publication"
+    },
+    "quotation-search": {
+      "__field__": "Misc. quotations"
+    },
+    "repository-display": {
+      "__field__": "Holding institution"
+    },
+    "repository-facet": {
+      "__field__": "Institution"
+    },
+    "repository-search": {
+      "__field__": "Admin.: Holding institution"
+    },
+    "settlement-display": {
+      "__field__": "Settlement"
+    },
+    "settlement-facet": {
+      "__field__": "Settlement"
+    },
+    "settlement-search": {
+      "__field__": "Admin.: Settlement"
+    },
+    "status-display": {
+      "__field__": "Status",
+      "destroyed": "Destroyed",
+      "dismembered": "Dismembered",
+      "displaced": "Displaced",
+      "existent": "Existent",
+      "missing": "Missing",
+      "unknown": "Unknown"
+    },
+    "status-search": {
+      "__field__": "Status"
+    },
+    "subtype-display": {
+      "completeFromOriginal": "Digital image, complete",
+      "completeFromSurrogate": "Digital image of surrogate, complete",
+      "partFromOriginal": "Digital image, partial",
+      "partFromSurrogate": "Digital image of surrogate, partial",
+      "watermark": "Watermark"
+    },
+    "thumbnail-uri-display": {
+      "__field__": "Thumbnail URI"
+    },
+    "title-display": {
+      "__field__": "Title"
+    },
+    "title-in-ms-search": {
+      "__field__": "Title in ms."
+    },
+    "title-search": {
+      "__field__": "Title"
+    },
+    "type": {
+      "__field__": "Document type",
+      "hsp:description": "Description",
+      "hsp:description_retro": "Manuscript description",
+      "hsp:object": "Basic data"
+    },
+    "type-search": {
+      "__field__": "Description: type"
+    },
+    "version-schema": {
+      "__field__": "Schema version"
+    },
+    "width-facet": {
+      "__field__": "Width"
+    },
+    "width-search": {
+      "__field__": "Width"
+    },
+    "work-title-search": {
+      "__field__": "Work title"
+    }
+  },
+  "enterSearchTerm": "Please enter a search query.",
+  "extendedSearch": {
+    "addSearchField": "Add search field",
+    "and": "and",
+    "boolAnd": "AND",
+    "boolEq": "==",
+    "boolGe": ">=",
+    "boolGt": ">",
+    "boolLe": "<=",
+    "boolLt": "<",
+    "boolNeq": "!=",
+    "boolOr": "OR",
+    "eq": "contains",
+    "extendedSearch": "Extended search",
+    "ge": "greater than",
+    "gt": "greater",
+    "is": "is",
+    "isNot": "is not",
+    "le": "less than",
+    "lt": "less",
+    "neq": "does not contain",
+    "or": "or",
+    "placeholderYear": "YYYY",
+    "preview": "Preview",
+    "removeField": "Remove extended search field",
+    "triggerExtendedSearch": "Extended search"
+  },
+  "filterPanel": {
+    "activateRangeFilter": "Use filter",
+    "applyFilters": "Apply filters",
+    "checked": "checked",
+    "discardChanges": "Discard changes",
+    "exactPeriod": "Period entirely within range",
+    "filterGroups": {
+      "administration": "Administration",
+      "content": "Content",
+      "description": "Description metadata",
+      "description-text": "Description full texts",
+      "digital-image": "Object metadata",
+      "general": "Holding institution",
+      "history": "Origin",
+      "hsp-ids": "HSP ids",
+      "materiality": "Materiality",
+      "origin": "Origin",
+      "persons": "Persons"
+    },
+    "filterResult": "{{numFound}} object/s",
+    "filters": "Filters",
+    "help": "<h1>Filter drawer</h1><p>By setting filters, the result set of the search can be further limited.</p><p>Using the thematically grouped <b>content filters</b>, it is possible to restrict the result set to manuscripts for which there are <b>scholarly descriptions, digital images</b> or –more precisely- <b>IIIF compliant digital images</b> that can be opened in the Workspace. The selection is linked with AND, so results must fulfil both conditions.</p><p>The <b>options</b> displayed for the various filters are taken from the current result set - i.e. only values are displayed that occur in at least one manuscript in the result set.</p><p>The <b>numbers</b> behind the individual filter options show the number of manuscripts that fulfil the respective condition. Selecting an option will immediately update these numbers as well as the total number of handwritings matching the current filtering, shown in the top right-hand corner.</p><p>By setting filters, the <b>statistical composition</b> of the hit list can already be examined before the filtering is applied to the hit list via the red button at the bottom of the drawer. The X at the top right can be used to discard changes made to the filtering.</p><p>Selections made in <b>different filters</b> (e.g. <i>Material</i> and <i>Place of origin</i>) are linked with AND, so matching results must fulfil both conditions.</br><b>Different options</b> selected in one filter (e.g. <i>Parchment</i> and <i>Paper</i>) are linked with OR, so results are shown for both parchment and paper manuscripts.</p><p>Most filters also offer the option <i>\"(Empty)\"</i> in addition to the values occurring in the result set. If this option is selected, results are taken into account for which the corresponding <b>value is not occupied</b> (e.g. manuscripts without a stated place of origin).</p><p>When filtering according to the <b>Date of origin</b>, a period of time can be specified within which the manuscript is supposed to have been created. Since for some manuscripts only periods for their date of origin are known, there is a slider <i>\"Period completely within range\"</i>. It can be used to select whether manuscripts should be displayed where the period of origin only overlaps with the specified period or whether the period of origin known for the manuscript has to lie completely within the specified range.</p>",
+    "helpLabel": "Help",
+    "missing": "(Empty)",
+    "noData": "(Empty)",
+    "noHits": "No matches",
+    "rangeFrom": "from",
+    "rangeTo": "to",
+    "removeAllFilters": "Clear all filters",
+    "showLessFilterOptions": "- Less",
+    "showMoreFilterOptions": "+ More",
+    "unchecked": "checked"
+  },
+  "hit": {
+    "collapse": "Collapse",
+    "expand": "Expand",
+    "resources": "Resources",
+    "showResultContext": "Show result context"
+  },
+  "listVariants": {
+    "hitsBottom": "Result context",
+    "hitsCollapsed": "Shelfmark",
+    "hitsExpanded": "Maximized",
+    "hitsTop": "Basic data",
+    "listVariants": "List variants"
+  },
+  "loading": "Loading content",
+  "numberOfHits": "{{numFound}} object/s",
+  "overview": {
+    "annotationsNotAvailable": "Annotations not yet available",
+    "buttonBackToSearchDesktop": "Back to search",
+    "buttonBackToSearchMobile": "to search",
+    "buttonBackToWorkspaceDesktop": "Back to workspace",
+    "buttonBackToWorkspaceMobile": "to workspace",
+    "digitalImages": "Digital images",
+    "manuscriptDescriptions": "Descriptions",
+    "ofDesktop": "of",
+    "ofMobile": "/",
+    "showDigitalImages": "Show digital images",
+    "showKodOverview": "Show overview page",
+    "showManuscriptDescriptions": "Show descriptions"
+  },
+  "paging": {
+    "goToNextPage": "Go to next page",
+    "goToPage": "Go to page {{pageNumber}}",
+    "goToPreviousPage": "Go to previous page",
+    "page": "page"
+  },
+  "permalink": {
+    "copy": "Copy permalink",
+    "text": "Stable citation link to this object",
+    "tooltip": "Link to object"
+  },
+  "resources": {
+    "addDescription": "Add manuscript description to workspace",
+    "addDigitalImage": "Add digital image to workspace",
+    "catalogNoDigitalCopy": "Catalogue digital copy not yet available",
+    "openDescription": "Open manuscript description in workspace",
+    "openDigitalImagesExternal": "Open digital image in external view",
+    "openManifestInWorkarea": "Open digital image in workspace",
+    "removeDescription": "Remove manuscript description from workspace",
+    "removeDigitalImage": "Remove digital image from workspace",
+    "thumbnailImage": "Thumbnail for digital images"
+  },
+  "searchBar": {
+    "allFields": "All",
+    "backToNormalSearch": "Back to basic search",
+    "description": "In the extended search, individual searches are supported in almost all Handschriftenportal search fields. Queries can be grouped and linked with OR/AND operators.",
+    "extendedSearch": "Extended search",
+    "search": "Suche",
+    "searchButton": "Search",
+    "searchFieldSelection": "Search field",
+    "triggerExtendedSearch": "Extended search"
+  },
+  "searchFailed": "An error occured.",
+  "searchResults": "Search results",
+  "snackMsg": {
+    "addToWorkspace": "The object was added to your workspace.",
+    "copyLink": "The link to this object has been copied to the clipboard.",
+    "removeFromWorkspace": "The object was removed from your workspace."
+  },
+  "sortOptionName": "Sort",
+  "sortOptions": {
+    "msIdentifierAsc": "Sort by Shelfmark (asc)",
+    "msIdentifierDesc": "Sort by Shelfmark (desc)",
+    "origDateAsc": "Sort by Date of origin (asc)",
+    "origDateDesc": "Sort by Date of origin (desc)",
+    "scoreDesc": "Sort by Relevance"
+  },
+  "sortOptionsMobile": {
+    "msIdentifierAsc": "Shelfmark (asc)",
+    "msIdentifierDesc": "Shelfmark (desc)",
+    "origDateAsc": "Date of origin (asc)",
+    "origDateDesc": "Date of origin (desc)",
+    "scoreDesc": "Relevance"
+  }
+}

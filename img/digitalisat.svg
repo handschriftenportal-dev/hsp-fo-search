@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Digitalisat</title>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide-/-Icons" transform="translate(-185.000000, -777.000000)" fill="#A8A39F">
+            <g id="Combined-Shape" transform="translate(185.000000, 777.000000)">
+                <path d="M16,0 C17.1045695,-2.02906125e-16 18,0.8954305 18,2 L18,2 L18,14 C18,15.1045695 17.1045695,16 16,16 L16,16 L2,16 C0.8954305,16 1.3527075e-16,15.1045695 0,14 L0,14 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L2,0 Z M15,12 L11.0003658,4 L7.5,11 L5.50030469,7 L3,12 L15,12 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

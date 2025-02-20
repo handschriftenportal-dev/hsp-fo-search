@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HSP Search Demo</title>
+</head>
+<body>
+  <div id="overviewNavigation"></div>
+  <div id="searchBar"></div>
+  <div id="main"></div>
+  <script src="/hsp-fo-search.js"></script>
+  <script>
+
+    const $ = s => document.querySelector(s)
+
+    const config = {
+      enableRouting: true,
+      discoveryEndpoint: '/api',
+      theme: {
+        mixins: {
+          toolbar: {
+            minHeight: 0
+          }
+        }
+      }
+    }
+
+    const search = createHspSearch(config)
+
+    search.addEventListener('selectResourceClicked', e => {
+      search.setSelectedResources([
+        ...search.getSelectedResources(),
+        e.detail,
+      ])
+    })
+
+    search.addEventListener('unselectResourceClicked', e => {
+      search.setSelectedResources(
+        search.getSelectedResources()
+          .filter(r => r.id !== e.detail.id)
+      )
+    })
+
+    search.addEventListener('openResourceClicked', e => {
+      console.log('open!')
+      search.setSelectedResources([
+        ...search.getSelectedResources(),
+        e.detail,
+      ])
+    })
+
+    search.addEventListener('searchButtonClicked', e => {
+      console.log('search button clicked: ', e.detail)
+    })
+
+    search.mount({
+      main: $('#main'),
+      searchBarOrOverviewNavigation: $('#searchBar'),
+    })
+
+  </script>
+</body>
+</html>

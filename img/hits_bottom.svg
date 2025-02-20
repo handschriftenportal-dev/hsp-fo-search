@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="10px" viewBox="0 0 17 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/view_result_bottom</title>
+    <g id="Icon/view_result_bottom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-8" stroke="#000000" x="0.5" y="0.5" width="16" height="3"></rect>
+        <path d="M14,3 C14.5522847,3 15,3.44771525 15,4 L15,9 C15,9.55228475 14.5522847,10 14,10 L3,10 C2.44771525,10 2,9.55228475 2,9 L2,4 C2,3.44771525 2.44771525,3 3,3 L14,3 Z M10,7 L3,7 L3,8 L10,8 L10,7 Z M10,5 L3,5 L3,6 L10,6 L10,5 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>
